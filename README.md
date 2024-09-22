@@ -12,7 +12,7 @@ This repository contains the projects I am currently doing as an intern with [Fe
 
 <br>
 
-### [AI Product/Service Ideation Task](https://github.com/ixfirdaus22/FeynnLabsInternship2024/tree/main/Sports%20Match-Forming%20App)
+### [AI Product/Service Ideation Task](https://github.com/ixfirdaus22/FeynnLabsInternship2024/blob/main/Sports%20Match-Forming%20App/Product%20Report.pdf)
 For this solo project, the final concept is a Machine Learning and AI-powered sports match-forming app that uses advanced machine learning algorithms to match players based on skill levels, availability, and location. It features a dynamic user ranking system that adjusts based on real-time performance, offering users a competitive and engaging experience. The app also includes a user-friendly interface that allows for manual adjustments, giving players control over their matches while benefiting from AI-driven recommendations. This repository provides a basic code implementation for the sports matchmaking app, including some visualizations, simple EDA (Exploratory Data Analysis), and ML modeling.
 ***
 
@@ -21,7 +21,7 @@ In this study task, I, along with four other members, worked on Market Segmentat
 
 ***
 
-### :zap: [Market Segmentation Analysis of the Indian Electric Vehicle Market](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India)
+### [Market Segmentation Analysis of the Indian Electric Vehicle Market](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India)
 In this subsequent project, I collaborated with four fellow members to address the assigned task: conduct an analysis of the electric vehicles market in India through Market Segmentation techniques. Our objective was to devise a viable market entry strategy that revolves around targeting the Geographic, Demographic, Psychographic and Behavioral segments.
 
 *Kindly go through the complete project report to obtain more information of the Indian EV Market.*
