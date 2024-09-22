@@ -12,7 +12,7 @@ This repository contains the projects I am currently doing as an intern with [Fe
 
 <br>
 
-### [AI Product/Service Ideation Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%201:%20AI%20Product%5CService%20Ideation%20Task/Artificial%20Intelligence%20for%20Indentification%20of%20Indian%20snakes.pdf)
+### [AI Product/Service Ideation Task](https://github.com/ixfirdaus22/FeynnLabsInternship2024/tree/main/Sports%20Match-Forming%20App)
 For this solo project, the final concept is a Machine Learning and AI-powered sports match-forming app that uses advanced machine learning algorithms to match players based on skill levels, availability, and location. It features a dynamic user ranking system that adjusts based on real-time performance, offering users a competitive and engaging experience. The app also includes a user-friendly interface that allows for manual adjustments, giving players control over their matches while benefiting from AI-driven recommendations. This repository provides a basic code implementation for the sports matchmaking app, including some visualizations, simple EDA (Exploratory Data Analysis), and ML modeling.
 ***
 
