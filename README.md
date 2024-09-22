@@ -16,7 +16,7 @@ This repository contains the projects I am currently doing as an intern with [Fe
 For this solo project, the final concept is a Machine Learning and AI-powered sports match-forming app that uses advanced machine learning algorithms to match players based on skill levels, availability, and location. It features a dynamic user ranking system that adjusts based on real-time performance, offering users a competitive and engaging experience. The app also includes a user-friendly interface that allows for manual adjustments, giving players control over their matches while benefiting from AI-driven recommendations. This repository provides a basic code implementation for the sports matchmaking app, including some visualizations, simple EDA (Exploratory Data Analysis), and ML modeling.
 ***
 
-###  [Market Segmentation Study Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.0:%20Market%20Segmentation%20case%20study)
+###  [Market Segmentation Study Task](https://github.com/ixfirdaus22/FeynnLabsInternship2024/tree/main/Study%20Task)
 In this study task, I, along with four other members, worked on Market Segmentation (MS), and highlighted the key points theoretically and practically (using Python) that are vital to MS.
 
 ***
